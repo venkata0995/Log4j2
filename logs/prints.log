@@ -1,0 +1,10 @@
+.19:03:32.317 [main] ERROR Beta.Demo2 - log error
+19:03:32.319 [main] FATAL Beta.Demo2 - fatal error
+19:04:18.774 [main] INFO  Alpha.Demo - I am logging
+19:04:18.776 [main] DEBUG Alpha.Demo - I am debugging
+19:04:18.776 [main] ERROR Alpha.Demo - log error
+19:04:18.777 [main] FATAL Alpha.Demo - fatal error
+19:04:55.022 [main] INFO  Alpha.Demo - I am logging
+19:04:55.023 [main] DEBUG Alpha.Demo - I am debugging
+19:04:55.023 [main] ERROR Alpha.Demo - log error
+19:04:55.024 [main] FATAL Alpha.Demo - fatal error
